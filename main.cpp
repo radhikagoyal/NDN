@@ -49,33 +49,40 @@ void parser ( string fname )
     
     int offset = 0;
     string line;
-    string search = "Taken Date   : ";
-    //string outline;
-    char outline[100];
-    //string result(19, ' ');
+    string search_time = "Taken Date   : ";
+    string search_lat = "Latitude:";
+    string search_long = "Longitude:";
+  
+    char output_time[100];
+    char output_lat[100];
+    char output_long[100];
+
 
 
 
     ifile.open ("./bulkr/"+fname);
-    //ofile.open ("output.txt", std::ios::app);
-    //cout << fname << endl;
+
     if (ifile.is_open()) {
         while(!ifile.eof()) {
             getline(ifile, line);
-            //cout << "looking through" << endl;
-            if ((offset = line.find(search, 0)) != string::npos) {
-                //cout << "found: " << offset << fname << endl;
-                //cout << line << endl;
-                line.copy(outline, 19, offset+15);
-                outline[20] = '\0';
-                cout << outline << endl;
-                break; 
+            
+            if ((offset = line.find(search_time, 0)) != string::npos) {
+                line.copy(output_time, 19, offset+15);
+                output_time[20] = '\0';
+                cout << output_time << endl;
+            }
+            if ((offset = line.find(search_lat, 0)) != string::npos) {
+                line.copy(output_lat, 5, offset+9);
+                output_lat[6] = '\0';
+                cout << output_lat << endl;
+            }
+            if ((offset = line.find(search_long, 0)) != string::npos) {
+                line.copy(output_long, 5, offset+10);
+                output_long[6] = '\0';
+                cout << output_long << endl;
             }
         }
-        //fread(outline, 1, 19, ifile);
-        //ifile.seekg(offset);
-        //ifile.read(&result[0], 19);
-        //cout << result << endl;
+      
         ifile.close();
     }
 
