@@ -56,9 +56,9 @@ void parser ( string fname )
 
 
 
-    ifile.open (fname);
-    ofile.open ("output.txt", std::ios::app);
-
+    ifile.open ("./bulkr/"+fname);
+    //ofile.open ("output.txt", std::ios::app);
+    //cout << fname << endl;
     if (ifile.is_open()) {
         while(!ifile.eof()) {
             getline(ifile, line);
@@ -85,7 +85,7 @@ void parser ( string fname )
 
 int main()
 {
-    string dir = string("./Bulkr/");
+    string dir = string("./bulkr/");
     vector<string> files = vector<string>();
 
     getdir(dir,files);
