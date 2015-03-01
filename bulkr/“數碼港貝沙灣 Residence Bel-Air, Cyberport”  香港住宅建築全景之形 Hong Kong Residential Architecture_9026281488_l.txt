@@ -1,0 +1,71 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 01, 2015   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : See-ming Lee 李思明 SML
+Photo URL    : https://www.flickr.com/photos/seeminglee/9026281488/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 8 15:36:07 GMT-0500 2013
+Upload Date  : Wed Jun 12 09:51:00 GMT-0500 2013
+Geotag Info  : Latitude:22.255555, Longitude:114.132500
+Views        : 34,043
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+“數碼港貝沙灣 Residence Bel-Air, Cyberport” / 香港住宅建築全景之形 Hong Kong Residential Architecture Panoramic Forms / SML.20130608.6D.15455-SML.20130608.6D.15471-Pano.Spherical.262x95.BW
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Designed by Arquitectonica, the building complexes at 貝沙灣 Residence Bel-Air located at 數碼港 Cyberport feature many of the key ingredients in Hong Kong’s luxury residential properties, as well as some WTF sceneries:
+
++ “風水洞 Feng Shui Hole”, the hole in the middle of the building which allows the dragon to fly through.
++ High density which soars to the sky. Higher density means more space around for scenery. This allows everyone to have a good view.
++ Ocean view. No one wants to be looking at humans when they are indoors. Well, I don’t.
++ Clothes hanging dry on the balcony. Hong Kong does not have a lot of space so everyone regardless of their income level dry their clothes outside. Truly WTF, yes I know.
++ Swimming pool with a view. This seems almost standard. There is a swimming pool at my place, too. But alas they are always surrounded by buildings so if you are super-private like me you will never swim there. Public swimming pools actually are more private because at least no one can see you.
+
+Pictured is the view from the balcony of one of the apartments at 貝沙灣 Residence Bel-Air. Stitched together using 16 RAW captures with the 6D + 17-40 f/4L, processed with Autopano Giga 3.0 and Lightroom 4.
+
+# References
+1. <a href="http://en.wikipedia.org/wiki/Cyberport" rel="nofollow">en.wikipedia.org/wiki/Cyberport</a>
+2. <a href="http://en.wikipedia.org/wiki/Arquitectonica" rel="nofollow">en.wikipedia.org/wiki/Arquitectonica</a>
+
+# SML Data
++ Date: 2013-06-08T15:36:07+0800
++ Dimensions: 11226 x 3996
++ Exposure: 1/200 sec at f/8.0
++ Focal Length: 17 mm
++ ISO: 100
++ Flash: Did not fire
++ Camera: Canon EOS 6D
++ Lens: Canon EF 17-40 f/4L USM
++ Panorama FOV: 262 degree horizontal, 95 degree vertical 
++ Panoramic Projection: Spherical 
++ GPS: 22°15'20&quot; N 114°7'57&quot; E
++ Location: 香港數碼港貝沙灣 Residence Bel-Air, Cyberport, Hong Kong
++ Workflow: Autopano Giga 3.0, Lightroom 4
++ Serial: SML.20130608.6D.15455-SML.20130608.6D.15471-Pano.Spherical.262x95.BW
++ Series: 建築 Architecture, 形 Forms, 全景攝影 Panoramic Photography
+
+# Media Licensing
+Creative Commons (CCBY) See-ming Lee 李思明 / SML Photography / SML Universe Limited
+
+“數碼港貝沙灣 Residence Bel-Air, Cyberport” / 香港住宅建築全景之形 Hong Kong Residential Architecture Panoramic Forms / SML.20130608.6D.15455-SML.20130608.6D.15471-Pano.Spherical.262x95.BW
+/ #建築 #Architecture #全景 #Pano #SMLPano #形 #Forms #SMLForms #黑白 #BW #SMLBW #CreativeCommons #CCBY #SMLPhotography #SMLUniverse #SMLProjects
+/ #中國 #中国 #China #香港 #HongKong #攝影 #摄影 #photography #山水 #landscape #城市 #Urban
+
+
++--------+
+|  TAGS  |
++--------+
+6D Black.White Black.and.White CCBY CN "Canon 6D" "Canon EF 17-40 f4L USM" "Canon EOS 6D" Canon.17-40.f4L China "Creative Commons" Cyberport Forms HK HKG "Hong Kong" "Residence Bel-Air" SML SML.BW SML:Projects SML:Projects=Architecture SML:Projects=BW SML:Projects=Forms SML:Projects=Pano.Photography SMLForms SMLPano SMLPhotography SMLUniverse Urban architecture autopano dense fl2fbp landscape luxury pano panorama panoramic photography residential seeminglee 中国 中國 住宅 全景 全景攝影 城市 山水 建筑 建築 形 摄影 攝影 數碼港 李思明 貝沙灣 香港 黑白 "Hong Kong Island" fav10 fav25 FlickrStats:Views=10000 

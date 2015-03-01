@@ -1,0 +1,73 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 01, 2015   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : See-ming Lee 李思明 SML
+Photo URL    : https://www.flickr.com/photos/seeminglee/8451195868/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 5 15:04:29 GMT-0600 2013
+Upload Date  : Wed Feb 6 10:33:12 GMT-0600 2013
+Geotag Info  : Latitude:22.419333, Longitude:114.223666
+Views        : 14,895
+Comments     : 14
+
+
++---------+
+|  TITLE  |
++---------+
+“青天雲錦龍藏宮” / 寧 Serenity / SML.20130205.7D.21291 — Explored
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cloudscape is up to millions of interpretation. It never repeats itself and it never stops evolving. 
+
+This is how humans should live. For me, everything is an experiment. And I try not to repeat what I did before. This is the only way to live — to try different things and see what happens. 
+
+Life does not come with a manual. It has no rules — so as Mark Twain once said: 
+
+“Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.”
+
+# SML Translate
++ 青: Blue. (It can also mean green and blue-green but in this context I meant blue)
++ 天: Heaven, sky.
++ 雲: Clouds.
++ 錦: Brocade. Here used as metaphor of the thickness of the clouds.
++ 龍: Dragon.
++ 藏: Hide, hidden.
++ 宮: Palace. 
++ 青天雲錦龍藏宮: The clouds are so thick in the blue sky that the dragons have decided to hide in their palace (and that’s why you don’t see them :)
+
+# SML Workflow
+Photographed handheld with the Canon EOS 7D + EF 70-200mm f/4L USM + 1.4x. Processed in Lightroom 4.
+
+# SML Data
++ Date: 2013-02-05 15:04:29 GMT+0800
++ Dimensions: 5184 x 3456
++ Exposure: 1/1250 sec at f/5.6
++ Focal Length: 235 mm
++ ISO: 100
++ Flash: Did not fire
++ Camera: Canon EOS 7D
++ Lens: Canon EF 70-200mm f/4L USM + 1.4x
++ GPS: 22°25'10&quot; N 114°13'25&quot; E (SML Universe HKG)
++ Serial: SML.20130205.7D.21291
++ Series: 寧 Serenity
+
+“青天雲錦龍藏宮” / 寧 Serenity / SML.20130205.7D.21291
+/ #寧 #serenity #SMLSerenity #CCBY #SMLPhotography #SMLUniverse #SMLProjects
+/ #藍 #蓝 #blue #色 #color #雲 #云 #cloud #cloudscape 
+/ #山水 #landscape #攝影 #摄影 #photography
+/ #香港 #HongKong #中國 #中国 #China #Canon7D #Canon70200
+
+
++--------+
+|  TAGS  |
++--------+
+7D CCBY CN Canon Canon.1.4x Canon.70-200.f4L Canon.7D Canon.EF.1.4x Canon.EF.1.4x.III Canon70200 CanonEOS7D China HK HKG Hong.Kong Ma.On.Shan NT New.Territories SML:Projects SMLPhotography SMLUniverse Shatin Shatin.District blue cloud clouds cloudscape color extender fl2fbp landscape photography seeminglee serenity smlserenity 中国 中國 云 寧 山水 摄影 攝影 新界 李思明 沙田 色 蓝 藍 雲 香港 馬鞍山 explore FlickrStats:Views=5000 fav10 fav25 fav50 

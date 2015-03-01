@@ -1,0 +1,80 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 01, 2015   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : See-ming Lee 李思明 SML
+Photo URL    : https://www.flickr.com/photos/seeminglee/8737183033/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 13 22:48:09 GMT-0500 2013
+Upload Date  : Tue May 14 06:17:31 GMT-0500 2013
+Geotag Info  : Latitude:22.420619, Longitude:114.223711
+Views        : 28,199
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+“春夜霧朦朧 紫空燦金輝” / 香港中文大學夜之寧 Chinese University of Hong Kong (CUHK) Night Serenity (60-sec LE) / SML.20130513.6D.06547
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Purple and gold are the school colors for The Chinese University of Hong Kong (香港中文大學 CUHK), and so I feel that it would be fitting to process this night-time long exposure as such. 
+
+In ancient times, purple was the color worn by Roman Emperors and magistrates, and later by Roman Catholic bishops. Since that time, it has been commonly associated with royalty and piety. The color gold is likely to represent the phoenix in the university’s emblem.
+
+This is a 60-second long exposure using the 6D + 24-70 f/2.8L mounted on Manfrotto tripod, remote release with the Canon TC-80N3.
+
+# SML Translate: 春夜霧朦朧 紫空燦金輝
++ 春: spring (describes the season).
++ 夜: night (describes the time).
++ 霧: fog, foggy (describes the weather).
++ 朦朧: fogginess (descries the scene due to the foggy weather).
++ 紫: purple (the color).
++ 空: sky.
++ 燦: sparkles (with).
++ 金: gold (color).
++ 輝: bright lights.
++ 春夜霧朦朧 紫空燦金輝: On a foggy spring night, golden lights shine brightly under the purple sky.
+
+# References
+1. Chinese University of Hong Kong: Wikipedia: EN: <a href="http://en.wikipedia.org/wiki/Chinese_University_of_Hong_Kong" rel="nofollow">en.wikipedia.org/wiki/Chinese_University_of_Hong_Kong</a>
+2. Purple: Wikipedia: EN: <a href="http://en.wikipedia.org/wiki/Purple" rel="nofollow">en.wikipedia.org/wiki/Purple</a>
+3. Gold: Wikipedia: EN: <a href="http://en.wikipedia.org/wiki/Gold_" rel="nofollow">en.wikipedia.org/wiki/Gold_</a>(color)
+
+# SML Data
++ Date: 2013-05-13T22:48:09+0800
++ Dimensions: 5318 x 3534
++ Exposure: 60.0 sec at f/11
++ Focal Length: 24 mm
++ ISO: 100
++ Flash: Did not fire
++ Camera: Canon EOS 6D
++ Lens: Canon EF 24-70mm f/2.8L USM
++ Accessories: Canon TC-80N3 remote release, Canon Angle C Finder, Manfrotto tripod.
++ GPS: 22°25'14&quot; N 114°13'25&quot; E
++ Location: 香港馬鞍山海濱長廊 Ma On Shan Promenade, Hong Kong
++ Subject: 香港中文大學 Chinese University of Hong Kong (CUHK) + 吐露港 Tolo Harbour
++ Workflow: Lightroom 4
++ Serial: SML.20130513.6D.06547
++ Series: 寧 Serenity, 長時間曝光 Long Exposure
+
+# Media Licensing
+Creative Commons (CCBY) See-ming Lee 李思明 / SML Photography / SML Universe Limited 
+
+“春夜霧朦朧 紫空燦金輝” / 香港中文大學夜之寧 Chinese University of Hong Kong (CUHK) Night Serenity (60-sec LE) / SML.20130513.6D.06547
+/ #寧 #serenity #SMLSerenity #LongExposure #LE #SMLLE #CreativeCommons #CCBY #SMLPhotography #SMLUniverse #SMLProjects
+/ #中國 #中国 #China #香港 #HongKong #攝影 #摄影 #photography #山水 #Landscape #夜 #Night #城市 #Urban #中文大學 #CUHK
+
+
++--------+
+|  TAGS  |
++--------+
+6D CCBY CN CUHK "Canon 6D" "Canon Angle Finder C" "Canon EF 24-70 f2.8L USM" "Canon EOS 6D" "Canon TC-80N3" Canon.24-70.f2.8L China ChineseUniversityOfHongKong "Creative Commons" Golden HK HKG "Hong Kong" LE "Ma On Shan" Night SML:Projects SMLLE SMLPhotography SMLUniverse Shatin "Tolo Harbour" Urban colors fl2fbp fog harbor longexposure nature photography purple sea seascape seeminglee serenity sky smlserenity univesity water yellow 中国 中國 中文大學 吐露港 城市 夜 大學 天 寧 摄影 攝影 晚 李思明 水 沙田 海 空 紫 自然 色 金 雾 霧 香港 馬鞍山 黃 FlickrStats:Views=5000 FlickrStats:Views=10000 fav10 

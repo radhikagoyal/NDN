@@ -1,0 +1,84 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 01, 2015   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : See-ming Lee 李思明 SML
+Photo URL    : https://www.flickr.com/photos/seeminglee/8532245225/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 6 00:41:54 GMT-0600 2013
+Upload Date  : Tue Mar 5 21:31:30 GMT-0600 2013
+Geotag Info  : Latitude:22.419613, Longitude:114.217555
+Views        : 28,007
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+“空清水靜如龍鳳 夜夢金輝滿江紅” / 香港中文大學全景夜之寧 The Chinese University of Hong Kong (CUHK) Panoramic Night Serenity / SML.20130306.7D.26377-SML.20130306.7D.26385-Pano.003.Rectilinear.90x94.P1.L1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is a night-time panorama of The Chinese University of Hong Kong (CUHK 香港中文大學). 
+
+It is stitched together using 7 RAW captures of 20-sec long exposures mounted on a tripod near my bedroom window. This time I braved it and stuck my camera all the way outside the window so I was able to do it at the same position without using two windows.
+
+Floating on the sea on the left you will see the floating light anchor seen earlier in my stream [1].
+
+# SML translate:
+空清水靜如龍鳳
+夜夢金輝滿江紅
++ 空: air, sky.
++ 清: clear. Describes the sky.
++ 水: water. sea.
++ 靜: quiet. Describes the water.
++ 如: (appears) like.
++ 龍: dragon.
++ 鳳: phoenix.
++ 空清水靜如龍鳳: the sky is clear, the harbour is quiet, the colors make the scene looks like dragon and phoenix (because of the lights of the Tolo Highway).
++ 夜: night.
++ 夢: dream.
++ 金: gold, golden. Describes the color.
++ 輝: shiny. Describes the light.
++ 滿: entire, full.
++ 江: lake. Tolo Harbour.
++ 紅: red. the color of the lake.
+
+I’ve tried to get the 平仄 right this time. Not sure if I did though? :)
+
+# SML Data
++ Date: 2013-03-06 12:41:54 GMT+0800
++ Dimensions: 4801 x 2290
++ Exposures: 20.0 sec at f/4.0
++ Focal Length: 19 mm
++ ISO: 100
++ Camera: Canon EOS 7D
++ Lens: Canon EF 17-40 f/4L USM
++ Panorama FOV: 90 degree horizontal, 94 degree vertical (though cropped further in Lightroom so actual vertical degree unknown)
++ Panoramic Projection: Rectilinear
++ GPS: 22°25'10&quot; N 114°13'25&quot; E
++ Location: SML Universe HKG
++ Subject: 香港中文大學 The Chinese University of Hong Kong (CUHK)
++ Serial: SML.20130306.7D.26377-SML.20130306.7D.26385-Pano.003.Rectilinear.90x94.P1.L1
++ Workflow: Hugin 2012, Photoshop CS6, Lightroom 4
++ Series: 寧 Serenity, 全景攝影 Panoramic Photography
+
+# Notes
+1. “冬夜萬物寧 金輝獨詠春” / 寧 Serenity / SML.20130208.7D.21344: <a href="http://www.flickr.com/photos/seeminglee/8455872022/in/set-72157631563218620/">www.flickr.com/photos/seeminglee/8455872022/in/set-721576...</a>
+
+“空清水靜如龍鳳 夜夢金輝滿江紅” / 香港中文大學全景夜之寧 The Chinese University of Hong Kong (CUHK) Panoramic Night Serenity / SML.20130306.7D.26377-SML.20130306.7D.26385-Pano.003.Rectilinear.90x94.P1.L1
+/ #寧 #serenity #SMLSerenity #全景 #SMLPano #CCBY #SMLPhotography #SMLUniverse #SMLProjects
+/ #中國 #中国 #China #香港 #HongKong #攝影 #摄影 #photography #山水 #CUHK #夜 #Night
+
+
++--------+
+|  TAGS  |
++--------+
+CCBY CN CUHK China ChineseUniversityOfHongKong Golden HK HKG "Hong Kong" "Ma On Shan" Night SML:Projects SMLPano SMLPhotography SMLUniverse "Science Park" Shatin "Tolo Harbour" "Tolo Highway" Urban colors fl2fbp harbor landscape mountains nature pano panorama panoramic photography red reflection sea seeminglee serenity smlserenity univesity water workflow=Hugin yellow 中国 中國 中文大學 全景 全景攝影 反影 吐露港 吐露港公路 城市 夜 大學 寧 山 山水 摄影 攝影 晚 李思明 水 沙田 海 科學園 紅 红 自然 色 金 香港 馬鞍山 黃 flickrstats:views=5000 FlickrStats:Views=10000 fav10 FlickrStats:Galleries=1 

@@ -1,0 +1,60 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 01, 2015   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : See-ming Lee 李思明 SML
+Photo URL    : https://www.flickr.com/photos/seeminglee/9284487950/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 6 18:02:15 GMT-0500 2013
+Upload Date  : Sun Jul 14 07:38:42 GMT-0500 2013
+Geotag Info  : Latitude:22.419444, Longitude:114.223888
+Views        : 21,900
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+黃昏雲影 Evening Cloudscape / 香港日落全景之寧 Hong Kong Sunset Panoramic Serenity / SML.20130706.7D.43781-SML.20130706.7D.43784-Pano.i4.9x2.L1.P1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This was shot handheld with the 7D + 100-400 during sunset last week. The color information is rather tricky in this shot, so I processed it mainly inside Photoshop Lab mode. If processed in black and white then the drama is somewhat gone, but leaving them in tact looks odd also. I might circle back and work on it more later.
+
+Stitched with 4 captures.
+
+# SML Data
++ Date: 2013-07-06T18:02:15+0800
++ Dimensions: 14160 x 3702
++ Exposure: 1/800 sec at f/8.0
++ Focal Length: 400 mm
++ ISO: 100
++ Flash: Did not fire
++ Camera: Canon EOS 7D
++ Lens: Canon EF 100-400mm f/4.5-5.6L IS USM
++ Panorama FOV: 9 degree horizontal, 2 degree vertical 
++ Panoramic Projection: Planar
++ GPS: 22°25'10&quot; N 114°13'26&quot; E
++ Location:  SML Universe HKG (Vista Paradiso, Ma On 
+Shan, Hong Kong)
++ Workflow: Autopano Giga 3, Lightroom 5, Photoshop CC
++ Serial: SML.20130706.7D.43781-SML.20130706.7D.43784-Pano.i4.9x2.L1.P1
++ Series: 寧 Serenity, 全景攝影 Panoramic Photography 
+
+# Media Licensing
+Creative Commons (CCBY) See-ming Lee 李思明 / SML Photography / SML Universe Limited
+
+黃昏雲影 Evening Cloudscape / 香港日落全景之寧 Hong Kong Sunset Panoramic Serenity / SML.20130706.7D.43781-SML.20130706.7D.43784-Pano.i4.9x2.L1.P1
+
+
++--------+
+|  TAGS  |
++--------+
+7D CCBY "Canon 7D" "Canon EF 100-400mm f4.5-5.6L IS USM" "Canon EOS 7D" Canon.100-400 "Creative Commons" SML:Projects SML:Projects=Nature SML:Projects=Pano.Photography SML:Projects=Serenity SMLPano SMLPhotography SMLUniverse clouds cloudscape colors fl2fbp nature pano panorama panoramic photography seeminglee serenity smlserenity sunset yellow 云 全景 全景攝影 寧 摄影 攝影 日落 李思明 自然 色 雲 黃 "Ma On Shan" "New Territories" "Hong Kong" FlickrStats:Views=10000 FlickrStats:Views=5000 fav10 fav25 FlickrStats:Galleries=1 

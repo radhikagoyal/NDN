@@ -1,0 +1,68 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 01, 2015   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : See-ming Lee 李思明 SML
+Photo URL    : https://www.flickr.com/photos/seeminglee/8720695784/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 8 16:07:39 GMT-0500 2013
+Upload Date  : Wed May 8 08:46:23 GMT-0500 2013
+Geotag Info  : Latitude:22.294947, Longitude:114.167875
+Views        : 38,264
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+“Florentijn Hofman: Rubber Duck: Hong Kong 2013” / Crazyisgood Art Installation / SML.20130508.6D.05448
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I went to check out the giant inflatable duck art installation currently on view at Harbour City to see what the fuss is all about. And there it is, floating on water. 
+
+This gigantic rubber duck which measures 14 x 15 x 16.5 meters was created as a statement for peace. In the Dutch artist Florentijn Hofman’s own words, “the Rubber Duck knows no frontiers, it doesn't discriminate people and doesn't have a political connotation. The friendly, floating Rubber Duck has healing properties: it can relieve mondial tensions as well as define them. The rubber duck is soft, friendly and suitable for all ages!” [1] 
+
+As with all things crazy in Hong Kong, what was most spectacular is not really the duck, but how many it has appeared on the media as well as how many people were seen photographing the duck on the docks. 
+
+On the evening news in Hong Kong, it was reported that some photographers were pushing each other just to get a space to photograph this floating duck. Oh humans.
+
+The best place to photograph this is on the roof of Ocean Terminal where the car park is. There are much less people there and you get to see the duck well. I am claustrophobic so this is obviously where I photographed it.
+
+# Notes
+1. Florentijn Hofman: Projects: Rubber Duck: Hong Kong 2013 <a href="http://www.florentijnhofman.nl/dev/project.php?id=192" rel="nofollow">www.florentijnhofman.nl/dev/project.php?id=192</a> 
+
+# SML Data
++ Date: 2013-05-08T16:07:39+0800
++ Dimensions: 5118 x 3412
++ Exposure: 1/40 sec at f/8.0
++ Focal Length: 32 mm
++ ISO: 200
++ Flash: DId not fire
++ Camera: Canon EOS 6D
++ Lens: Canon EF 17-40 f/4L USM
++ GPS: 22°17'42&quot; N 114°10'4&quot; E 
++ Location: 中國香港九龍尖沙咀海港城 Harbour City, Tsim Sha Tsui, Kowloon, Hong Kong, China
++ Workflow: Lightroom 4
++ Serial: SML.20130508.6D.05448
++ Series: Photojournalism, Crazyisgood, SML Fine Art
+
+# Media Licensing
+Creative Commons (CCBY) See-ming Lee 李思明 / SML Photography / SML Universe Limited
+
+“Florentijn Hofman: Rubber Duck: Hong Kong 2013” / Crazyisgood Art Installation / SML.20130508.6D.05448
+/ #Photojournalism #CreativeCommons #CCBY #SMLPhotography #SMLUniverse #SMLFineArt #Crazyisgood #SMLProjects
+/ #中國 #中国 #China #香港 #HongKong #攝影 #摄影 #photography #FlorentijnHofman #RubberDuck #ducks #yellow #WTF #LOL #people #crazy #installation #art #fineart
+
+
++--------+
+|  TAGS  |
++--------+
+6D CCBY CN "Canon 6D" "Canon EF 17-40 f4L USM" "Canon EOS 6D" Canon.17-40.f4L China "Creative Commons" "Florentijn Hofman" HK HKG "Harbour City" "Hong Kong" LOL SML:Projects SML:Projects=Crazyisgood SML:Projects=Photojournalism SML:Projects=SMLFineArt SMLFineArt SMLPhotography SMLUniverse TST "Tsim Sha Tsui" Urban WTF art crazy crazyisgood duck "fine art" fl2fbp installation journalism photography photojournalism rubber "rubber duck" seeminglee 中国 中國 城市 尖沙咀 摄影 攝影 新聞 新聞攝影 李思明 海港城 香港 Kowloon FlickrStats:Views=5000 FlickrStats:Views=10000 fav10 fav25 fav50 

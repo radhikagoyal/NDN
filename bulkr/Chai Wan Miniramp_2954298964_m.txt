@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 01, 2015   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wZa HK
+Photo URL    : https://www.flickr.com/photos/wza/2954298964/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 19 17:04:18 GMT-0500 2008
+Upload Date  : Sun Oct 19 04:04:18 GMT-0500 2008
+Geotag Info  : Latitude:22.264360, Longitude:114.245619
+Views        : 166
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chai Wan Miniramp
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Location on google maps via mobilefoto app on iPhone
+
+
++--------+
+|  TAGS  |
++--------+
+iPhone googlemap GPS mobilephotos 

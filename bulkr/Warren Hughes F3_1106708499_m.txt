@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 01, 2015   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Xindi-69
+Photo URL    : https://www.flickr.com/photos/daveyhoppers/1106708499/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 14 20:34:09 GMT-0500 1995
+Upload Date  : Mon Aug 13 14:34:09 GMT-0500 2007
+Geotag Info  : Latitude:52.091161, Longitude:-1.022415
+Views        : 465
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Warren Hughes F3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Alan Docking Dallara F395 HKS Mitsubishi
+
+
++--------+
+|  TAGS  |
++--------+
+1995 british gp silverstone f3 Dallara F395 HKS Mitsubishi 

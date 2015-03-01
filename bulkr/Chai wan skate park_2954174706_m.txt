@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 01, 2015   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wZa HK
+Photo URL    : https://www.flickr.com/photos/wza/2954174706/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 19 15:33:13 GMT-0500 2008
+Upload Date  : Sun Oct 19 02:33:13 GMT-0500 2008
+Geotag Info  : Latitude:22.264360, Longitude:114.245619
+Views        : 716
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chai wan skate park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Location on google maps via mobilefoto app on iPhone
+
+
++--------+
+|  TAGS  |
++--------+
+iPhone googlemap GPS mobilephotos 

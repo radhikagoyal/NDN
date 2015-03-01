@@ -1,0 +1,67 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 01, 2015   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : See-ming Lee 李思明 SML
+Photo URL    : https://www.flickr.com/photos/seeminglee/9119157574/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 23 22:02:16 GMT-0500 2013
+Upload Date  : Sun Jun 23 12:46:45 GMT-0500 2013
+Geotag Info  : Latitude:22.285286, Longitude:114.162105
+Views        : 41,591
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+夜深雲湧 Cloudy night / 香港中環全景 Central, Hong Kong Panorama / SML.20130623.6D.16533-SML.20130623.6D.16547-Pano.i15.360x87
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nothing can quite describe the excitement of seeing a parallax-free render after spending the time to make the series of shots—not to mention carrying the gear to the location in the middle of the night. 
+
+The Manfrotto 303 SPH pano head is not cheap, but at last I do not have to make excuses of why the seams do not match and try to fix them post-processing unsuccessfully. This is the best purchase in recent years yet again. 
+
+I found this open space near Pier 10 at Central Pier. All the architectural landmarks in Central can be clearly seen here, as well as the Central Plaza to the right in Wan Chai. 
+
+The IFC is quite tall, and I photographed this with the 6D + 17-40 angled 15-degree from the horizon. Stitched together using 15 captures set at 24-degree each. With the 303SPH (the 300N rotating head component) it becomes very easy to photograph at intervals covering everything equally without much guess work.
+
+# SML Data
++ Date: 2013-06-23T22:02:16+0800
++ Dimensions: 21166 x 4855
++ Exposure: 4.0 sec at f/8.0
++ Focal Length: 21 mm
++ ISO: 400
++ Flash: Did not fire
++ Camera: Canon EOS 6D
++ Lens: Canon EF 17-40 f/4L USM
++ Accessories: Canon TC-80N3 Remote release, Manfrotto 303 SPH pano head, Manfrotto tripod
++ Panorama FOV: 360 degree horizontal, 87 degree vertical 
++ Panoramic Projection: Spherical
++ GPS: 22°17'7&quot; N 114°9'44&quot; E
++ Location: 香港中環碼頭 Central Ferry Piers, Central, Hong Kong
++ Subject: 香港中環 Central, Hong Kong
++ Workflow: Autopano Giga 3, Lightroom 4
++ Serial: SML.20130623.6D.16533-SML.20130623.6D.16547-Pano.i15.360x87
++ Series: 建築 Architecture, 全景攝影 Panoramic Photography 
+
+# Media Licensing
+Creative Commons (CCBY) See-ming Lee 李思明 / SML Photography / SML Universe Limited
+
+夜深雲湧 Cloudy night / 香港中環全景 Central, Hong Kong Panorama / SML.20130623.6D.16533-SML.20130623.6D.16547-Pano.i15.360x87
+/ #建築 #建筑 #Architecture #全景 #Pano #Panorama #SMLPano #CreativeCommons #CCBY #SMLPhotography #SMLUniverse #SMLProjects
+/ #中國 #中国 #China #香港 #HongKong #城市 #Urban #中環 #Central #雲 #Cloud #天 #空 #Sky #山水 #landscape
+
+
++--------+
+|  TAGS  |
++--------+
+6D CCBY CN "Canon 6D" "Canon EF 17-40 f4L USM" "Canon EOS 6D" Canon.17-40.f4L Central "Central Ferry Piers" China "Creative Commons" HK HKG "Hong Kong" IFC "International Finance Centre" Manfrotto "Manfrotto 303 SPH" Night SML:Projects SML:Projects=Architecture SML:Projects=Pano.Photography SMLPano SMLPhotography SMLUniverse Urban architecture autopano commercial fl2fbp landscape pano panorama panoramic photography seeminglee 中国 中國 中環 中環碼頭 全景 全景攝影 商業 國際金融中心 城市 夜 山水 建筑 建築 摄影 攝影 晚 李思明 香港 "Hong Kong Island" FlickrStats:Views=10000 FlickrStats:Views=5000 fav10 fav25 FlickrStats:Galleries=1 fav50 

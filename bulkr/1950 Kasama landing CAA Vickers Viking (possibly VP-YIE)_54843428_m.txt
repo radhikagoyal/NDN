@@ -1,0 +1,204 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 28, 2015   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kalense Kid
+Photo URL    : https://www.flickr.com/photos/sharman/54843428/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 22 15:52:46 GMT-0500 2005
+Upload Date  : Sat Oct 22 08:52:46 GMT-0500 2005
+Geotag Info  : Latitude:-15.414628, Longitude:28.324000
+Views        : 34,139
+Comments     : 29
+
+
++---------+
+|  TITLE  |
++---------+
+1950 Kasama landing: CAA Vickers Viking (possibly VP-YIE)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A momentous occasion - my arrival in Africa.  Well, momentous for me, anyway.
+
+Me mum in her English mac and 1940s hairstyle, and my dad with his good bush suit and 1940s hair are bearing between them a 1940s carrycot, with me (a 1940s baby) 3 months old inside. 
+
+I first arrived in Kenya from Khartoum by Solent flying boat, landing on Lake Naivasha.  My mother and I flew on to Kasama the next day in this plane.  
+
+In later trips I travelled in a variety of planes back and forth between the UK (&quot;home&quot;!) and where I lived.  
+
+I vaguely remember flying in a Hunting Clan Viscount 800 and Avro York, the inevitable Douglas DC3, a Handley Page Hermes, an Argonaut (the EAA name for a Canadair-built Douglas DC-4), a Boeing Stratocruiser, a Lockheed Constellation, a Fokker Friendship, a DC-6, DC-7C, Bristol Britannia, Comet IV, Boeing 707, Super VC10,  DC-8, Boeing 747, and an Airbus A-380.
+
+The DC-3 and Argonauts could fly no higher than 20 000 ft.  The summit of Mont Blanc is 15 774 ft above sea level, which means that a flight across the Alps in a Dakota often seemed more like a flight between the mountains.  
+
+The turbo-prop Britannias flew higher, between 25 000 and 30 000 ft. By the time Comets and VC10s carried me back and forth, the Alps were reduced to a spectacle to view from a comfortable 40 000 ft.
+
+As far as I can remember, I have flown in and out of the following 148 airports since I first arrived in Lusaka, most of them many times.
+
+Aberdeen - 57º 12′ 07″N - 002º 11′ 52″W
+Addis Abeba - 08º 58′ 38″N - 038º 48′ 07″E
+Almeria - 36º 50′ 57″N - 002º 22′ 06″W
+Antananarivo - 18º 47′ 56″S - 047º 28′ 31″E
+Arhus - 56º 18′ 03″N - 010º 37′ 19″E
+Arlanda (Stockholm) - 59º 38′ 54″N - 017º 56′ 17″E
+Athens - 37º 53′ 13″N - 023º 44′ 33″E
+Atlanta - 33º 38′ 26″N - 084º 25′ 14″W
+Auckland - 37º 00' 29&quot;S - 174º 47' 30&quot;E
+Bamako - 12º 32′ 22″N - 007º 56′ 38″W
+Banjul - 13º 20′ 27″N - 016º 39′ 03″W
+Barcelona - 41º 18′ 07″N - 002º 05′ 08″E
+Bergamo - 45º 39′ 56″N - 009º 42′ 09″E
+Bergen - 60º 17′ 26″N - 005º 14′ 30″E
+Biggin Hill (London) - 51º 19′ 51″N - 000º 01′ 57″E
+Billund - 55º 44′ 22″N - 009º 09′ 14″E
+Blagnac (Toulouse) - 43º 38′ 27″N - 001º 23′ 48″E
+Boston - 42º 22′ 06″N - 071º 00′ 46″W
+Brest - 48º 26′ 44″N - 004º 24′ 50″W
+Brindisi - 40º 39′ 29″N - 017º 56′ 27″E
+Bristol - 51º 23′ 09″N - 002º 42′ 25″W
+Bromma (Stockholm) - 59º 21′ 31″N - 017º 56′ 44″E
+Budapest - 47º 25′ 54″N - 019º 15′ 59″E
+Burlington - 44º 55′ 59″N - 073º 04′ 59″W
+Cairo - 30º 07′ 09″N - 031º 25′ 08″E
+Cambridge - 52º 12′ 28″N - 000º 10′ 24″E
+Canberra - 35º 18′ 26″S - 149º 11′ 28″E
+Cape Town - 33º 58′ 31″S - 018º 36′ 52″E
+Changi (Singapore) - 1° 21' 1&quot;N - 103° 59' 40&quot;E
+Charleroi (Brussels south) - 50º 27′ 25″N - 004º 27′ 20″E
+Charles de Gaulle (Paris) - 49º 00′ 25″N - 002º 33′ 59″E
+Christchurch - 43º 29′ 18″S - 172º 32′ 24″E
+Ciampino (Rome) - 41º 47′ 56″N - 012º 35′ 26″E
+Clermont/Ferrand Auvergne International - 45º 47′ 20″N - 003º 10′ 09″E
+Copenhagen - 55º 37′ 42″N - 012º 39′ 03″E
+Croydon (London) - 51º 21′ 23″N - 000º 07′ 02″W
+Dakar - 14º 44′ 45″N - 017º 29′ 12″W
+Dar-es-Salaam - 06º 52′ 24″S - 039º 12′ 15″E
+De Palma De Mallorca - 39° 33' N - 02° 44' E
+Detroit - 42º 12′ 49″N - 083º 20′ 43″W
+Don Muang (Bangkok) - 13º 54′ 23″N - 100º 35′ 58″E
+Dorval (Montreal) - 45º 28′ 10″N - 073º 42′ 57″W
+Dublin - 53º 25′ 46″N - 006º 14′ 02″W
+Dulles International (Washington DC) - 38º 57′ 04″N - 077º 26′ 21″W
+Edinburgh - 55º 56′ 51″N - 003º 21′ 36″W
+Entebbe (Kampala) - 00º 02′ 32″N - 032º 27′ 13″E
+Fiumicino (Rome) - 41º 48′ 02″N - 012º 17′ 13″E
+Frankfurt - 50º 02′ 32″N - 008º 33′ 21″E
+Gatwick (London) - 51º 09′ 04″N - 000º 10′ 45″W
+Gauteng (Johannesburg) - 26º 08′ 16″S - 028º 15′ 44″E
+Geneva - 46º 14′ 10″N - 006º 07′ 34″E
+Gimhae International (Busan) - 35º 10' 45''N - 128º 56' 17''E
+Hamburg - 53º 37′ 41″N - 010º 00′ 53″E
+Heathrow (London) - 51º 28′ 08″N - 000º 27′ 22″W
+Helsinki - 60º 14′ 54″N - 025º 02′ 56″E
+Hong Kong - 22° 19' 5&quot;N - 114° 12' 0&quot;E
+Humberside - 53° 34' 28&quot;N - 000° 21' 03&quot;W
+Incheon International (Seoul) - 37º 28' 18&quot;N - 126º 27' 21&quot;E
+Iquitos - 03º 44′ 33″S - 073º 15′ 29″W
+Ivalo - 68º 36′ 24″N - 027º 25′ 24″E
+Jerez - 36º 44′ 52″N - 006º 03′ 42″W
+JFK (New York) - 40º 39′ 10″N - 073º 46′ 14″W
+Kasama airstrip - 10º 13′ 05″S - 031º 08′ 29″E
+Kenyatta International (Nairobi; previously Embakasi) - 01º 19′ 18″S - 036º 56′ 07″E
+Kerry - 52º 10′ 53″N - 009º 32′ 06″ 
+Khartoum - 15º 35′ 10″N - 032º 33′ 27″E
+Kuala Lumpur - 02º 44′ 58″N - 101º 43′ 01″E
+Lagos - 06º 34′ 06″N - 003º 20′ 50″E
+Lannion - 48º 45′ 23″N - 003º 28′ 15″W
+Leeds - 53º 52′ 09″N - 001º 39′ 35″W
+Leipzig - 51º 25′ 35″N - 012º 14′ 26″E
+Lille - 50º 34′ 05″N - 003º 06′ 30″E
+Lima - 12º 01′ 23″S - 077º 06′ 23″W
+Linate (Milan) - 45º 26′ 51″N - 009º 17′ 15″E
+Lisbon - 38º 46′ 45″N - 009º 07′ 15″W
+Ljubljana - 46º 13′ 40″N - 014º 27′ 42″E
+Los Angeles International - 33º 56′ 42″N - 118º 24′ 16″W
+Lugano - 46º 00′ 11″N - 008º 54′ 25″E
+Lusaka - 15º 24′ 50″S - 028º 19′ 36″E
+Madrid - 40º 28′ 22″N - 003º 33′ 54″W
+Malaga - 36º 40′ 44″N - 004º 29′ 05″W
+Malindi - 03º 13′ 50″S - 040º 06′ 02″E
+Malpensa (Milan) - 45º 37′ 58″N - 008º 43′ 53″E
+Malta - 35º 50′ 58″N - 014º 29′ 53″E
+Manchester - 53º 21′ 40″N - 002º 16′ 18″W
+Manda Island - 02º 15′ 18″S - 040º 54′ 45″E
+Marignane (Marseilles) - 43º 26′ 13″N - 005º 13′ 31″E
+Matam (Senegal) - 15º 35′ 59″N - 013º 15′ 00″W
+Melbourne - 37° 39' 42&quot; S - 144° 50' 0&quot;E
+Melsbroek (Brussels) - 50º 54′ 05″N - 004º 29′ 04″E
+Mexico City - 19º 25′ 54″N - 099º 04′ 32″W
+Miami - 25º 47′ 31″N - 080º 16′ 22″W
+Mirabel (Montreal) - 45º 40′ 58″N - 074º 00′ 50″W
+Mitilini (Lesvos) - 39º 03′ 34″N - 026º 36′ 05″E
+Mombasa - 04º 01′ 37″S - 039º 35′ 56″E
+Montpellier Méditerranée - 43º 35′ 00″N - 003º 57′ 41″E
+Munich - 48º 21′ 16″N - 011º 47′ 51″E
+National (Washington DC) - 38º 51′ 03″N - 077º 02′ 03″W
+Nelson - 41º 17′ 58″S - 173º 13′ 31″E
+Newark (New York) - 40º 41′ 28″N - 074º 10′ 14″W
+Niamey - 13º 28′ 22″N - 002º 11′ 07″E
+Nice - 43º 39′ 41″N - 007º 12′ 42″E
+Norwich - 52º 40′ 11″N - 001º 16′ 40″E
+Nosy Be - 13º 19′ 08″S - 048º 18′ 41″E
+Oaxaca - 17º 00′ 06″N - 096º 43′ 12″W
+Orly (Paris) - 48º 44′ 18″N - 002º 21′ 55″E
+Oslo - 60º 11′ 28″N - 011º 06′ 12″E
+Ottawa - 45º 19′ 29″N - 075º 39′ 26″W
+Paisley (Glasgow) - 55º 51′ 54″N - 004º 25′ 52″W
+Palma - 39º 32′ 47″N - 002º 43′ 41″E
+Podor - 16º 40′ 59″N - 014º 17′ 37″W
+Ponta Delgada (Azores) - 37º 44′ 33″N - 025º 41′ 41″W
+Porto - 41º 14′ 35″N - 008º 39′ 44″W
+Prestwick International (Glasgow) - 55º 30′ 25″N - 004º 35′ 41″W
+Reykjavik - 64º 02′ 38″N - 022º 01′ 40″W
+Richard Toll - 16º 25′ 59″N - 015º 18′ 39″W
+Robin Hood (Doncaster / Sheffield) - 53° 28' 28&quot;N - 001° 0' 15&quot;W
+Rotorua - 38° 6' 33&quot;S - 176° 19' 1&quot;E
+Ruzyne (Prague) - 50° 04' 0″ N - 014° 26' 0″ E
+San Jose (California) - 37º 21′ 55″N - 121º 55′ 08″W
+San Jose (Costa Rica) - 09º 59′ 59″N - 084º 12′ 09″W
+Schiphol (Amsterdam) - 52º 18′ 27″N - 004º 46′ 29″E
+Simenti - 13º 02′ 59″N - 013º 16′ 00″W
+Sioux Falls - 43º 34′ 57″N - 096º 43′ 49″W
+Skavsta - 58° 47' 18&quot; N - 016° 54' 43&quot; E
+Sofia - 42º 41′ 22″N - 023º 24′ 09″E
+Southampton - 50º 56′ 57″N - 001º 21′ 16″W
+Spartanburg - 34º 55′ 02″N - 081º 57′ 19″W
+St Exuperey (Lyon) - 45º 43′ 20″N - 005º 05′ 04″E
+St Petersburg - 59º 47′ 39″N - 030º 17′ 00″E
+Stanstead - 51º 53′ 20″N - 000º 15′ 29″E
+Stuttgart - 48º 41′ 24″N - 009º 13′ 12″E
+Sundsvall-Timrå - 62° 31' 59″N - 017° 27' 00″E
+Sydney - 33º 56′ 07″S - 151º 10′ 36″E
+Tegel (Berlin) - 52º 33′ 27″N - 013º 17′ 53″E
+Tempelhof (Berlin) - 52º 28′ 56″N - 013º 23′ 23″E
+Tocumen (Panama City) - 9°04'17”N - 079°23'00”W 
+Toronto - 43º 40′ 42″N - 079º 36′ 48″W
+Tromsø - 69º 40′ 48″N - 018º 55′ 30″E
+Valladolid - 41º 42′ 39″N - 004º 50′ 31″W
+Vancouver - 49º 11′ 44″N - 123º 10′ 30″W
+Victoria (Vancouver Island) - 48º 38′ 26″N - 123º 25′ 48″W
+Vienna - 48º 07′ 12″N - 016º 33′ 32″E
+Warsaw - 52º 10′ 16″N - 020º 58′ 47″E
+Wellington - 41º 19′ 45″S - 174º 48′ 50″E
+Wilson (Nairobi) - 01º 19′ 07″S - 036º 49′ 08″E
+Zaventem (Brussels) - 50º 53′ 54″N - 004º 29′ 24″E
+Zurich - 47º 27′ 04″N - 008º 34′ 07″E
+
+I've left off this list the airports where the plane landed but I wasn't allowed off while they refuelled for the next leg - like Bujumbura, or Abu Dhabi.
+
+I was 8 when I took my first unaccompanied flight. Not a short one - from Kenya to England. By then I must have had one of <a href="http://www.flickr.com/photos/sharman/6761288761/">these</a> of my very own.
+
+<a href="http://maps.yuan.cc" rel="nofollow">GeoTagged</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Kalense Africa "Northern Rhodesia" 1950 bush kk-mjs airports airplane flight carrycot 1950s B&W "airports i have known" "is it any surprise i hate airports?" "white and black" "Vickers VC.1 Viking" "Early life" childhood "Geotag: S 10 17 3.2 E 30 59 46.6" "Geotag is a total guess" "Where is Kalense anyway?" geotagged aircraft VP-YIE "aircraft registration" "Martin Sharman" "African upbrining" 

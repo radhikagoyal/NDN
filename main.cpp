@@ -17,7 +17,10 @@
 
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 //#include <ofstream>
+#include <cstdio>
+#include <cstdlib>
 
 using namespace std;
 
@@ -44,57 +47,51 @@ void parser ( string fname )
     ifstream ifile;
     ofstream ofile;
     
-    int offset;
+    int offset = 0;
     string line;
     string search = "Taken Date   : ";
+    //string outline;
+    char outline[100];
+    //string result(19, ' ');
+
 
 
     ifile.open (fname);
     ofile.open ("output.txt", std::ios::app);
 
-    //cout << "opened " << fname << endl;
-
     if (ifile.is_open()) {
         while(!ifile.eof()) {
             getline(ifile, line);
-
+            //cout << "looking through" << endl;
             if ((offset = line.find(search, 0)) != string::npos) {
-                cout << "found: " << search << endl;
-                //write this date to file
-                //ofile <<
-                //break;
+                //cout << "found: " << offset << fname << endl;
+                //cout << line << endl;
+                line.copy(outline, 19, offset+15);
+                outline[20] = '\0';
+                cout << outline << endl;
+                break; 
             }
         }
+        //fread(outline, 1, 19, ifile);
+        //ifile.seekg(offset);
+        //ifile.read(&result[0], 19);
+        //cout << result << endl;
         ifile.close();
     }
 
-/*
-
-
-    //file << "Writing this to a file.\n";
-    string str;
-    str.clear();
-
-    string * tptr;
-
-    tptr = strstr (file,"Taken Date   : "); //15 chars
-
-    strncpy(str, tptr+15, 19);
-    file << str << '\n'; */
-
-
+    ofile.close();
 
 }
 
 int main()
 {
-    string dir = string(".");
+    string dir = string("./Bulkr/");
     vector<string> files = vector<string>();
 
     getdir(dir,files);
 
     for (unsigned int i = 0;i < files.size();i++) {
-        cout << files[i] << endl;
+        //cout << files[i] << endl;
         parser(files[i]);
     }
 
